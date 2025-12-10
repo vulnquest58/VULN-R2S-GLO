@@ -4,9 +4,6 @@
 > Built in Go for unmatched speed, resilience, and global coverage.  
 > By [@vulnquest58](https://github.com/vulnquest58)
 
-![VULN-R2S-GLO Banner](images/banner.png)  
-*(Banner image placeholder — add your own visual)*
-
 ---
 
 ## 🔥 Why VULN-R2S-GLO?
