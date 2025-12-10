@@ -1,0 +1,11 @@
+# Binaries
+/VULN-R2S-GLO
+/VULN-R2S-GLO.exe
+
+# Output
+/output/
+/state/*.json
+
+# OS
+.DS_Store
+Thumbs.db

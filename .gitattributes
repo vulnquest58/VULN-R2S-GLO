@@ -1,0 +1,7 @@
+# تأكد من استخدام LF في جميع الملفات النصية
+* text=auto eol=lf
+
+# خصوصًا ملفات shell و Go يجب أن تبقى بـ LF
+*.sh text eol=lf
+*.mod text eol=lf
+*.sum text eol=lf
